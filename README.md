@@ -1,2 +1,2 @@
 # Deep-Learning-Sequential-Model-Radon-Dataset
-Objective: to develope DL Sequential Model predicting level of Radon 
+Objective: To predict radon levels in U.S homes by applying deep learning model (Sequential Model)
